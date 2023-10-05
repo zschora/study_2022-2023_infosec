@@ -1,3 +1,4 @@
+- feat(labs): add lab5
 - feat(main): add CHANGELOG
 - frant(labs): add lab4
 - feat(labs): add lab3
