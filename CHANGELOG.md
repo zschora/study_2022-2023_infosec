@@ -1,3 +1,9 @@
+- Merge branch 'main' of https://github.com/zschora/study_2022-2023_infosec
+- feat(main): add lab7
+- feat(main): update README.md
+- feat(main): create README.md
+- feat(personal-project): add report and presentation
+- feat(main): add changelog
 - feat(main): add lab6
 - feat(main): add changelog
 - feat(labs): add lab5
